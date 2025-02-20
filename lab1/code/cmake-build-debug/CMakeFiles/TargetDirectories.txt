@@ -1,0 +1,3 @@
+/Users/wanghaisheng/Desktop/Coding/Courses/NLP/lab1/code/cmake-build-debug/CMakeFiles/code.dir
+/Users/wanghaisheng/Desktop/Coding/Courses/NLP/lab1/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wanghaisheng/Desktop/Coding/Courses/NLP/lab1/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
